@@ -1,9 +1,3 @@
-/* 
-    Mateusz Suszek
-    324132
-    LJE
-*/
-
 #include <iostream>
 #include <queue>
 
